@@ -1,0 +1,113 @@
+html  {
+       padding: 0;
+       margin: 0;
+       }
+       
+       
+       
+body  {
+       padding: 55px;
+       font-family: georgia, serif;
+       font-size: 13px;
+       font-style: italic;
+       line-height: 16px;
+       background-color: #C4BFC9;
+       }
+       
+header {
+       padding: 40px;
+       background-color: #77A2AB;
+       -webkit-border-radius: 15px 15px 0 0;
+       border-radius: 15px 15px 0 0;
+       -webkit-box-shadow: 3px 3px 3px 5px #E7E1ED;
+       box-shadow: 3px 3px 3px 5px #E7E1ED;
+       }
+       
+nav    {
+       float: left;
+       margin-bottom: 30px
+       }
+    
+nav ul li {
+           list-style-type: none;
+           float: left;
+           padding: 20px;
+           margin-right: 20px;
+           background-color: #E6C0B3;
+            -webkit-box-shadow: 3px 3px 3px 5px #E7E1ED;
+           }
+nav li a { 
+          text-decoration: none;
+          color: #BLACK;
+          }
+nav li a:hover {
+        color:#000;
+               }
+    
+main   {
+       clear: left;
+       padding-left: 60px;
+       
+       }
+       
+footer  {
+        background-color: #77A2AB;
+        padding: 40px;
+        -webkit-border-radius: 0 0 15px 15px;
+        border-radius: 0 0 15px 15px;
+         -webkit-box-shadow: 3px 3px 3px 5px #E7E1ED;
+         font-family: 'Inconsolata', monospace;
+         font-size: 18px;
+        }
+footer p {
+         text-align: center;
+         
+         }
+        
+        
+h1     {
+       color: #0E0B0F;
+       font-size: 45px;
+       font-family: 'Handlee', cursive;
+
+       }
+       
+h2     {
+       font-size: 21px;
+       font-family: courier, "courier new", Times, monospace;
+       margin-top: 14px;
+       margin-bottom: 7px;
+       font-family: 'Handlee', cursive;
+
+       }
+       
+h3     { 
+        margin-top: 14px;
+        font-family: courier, "courier new", Times, monospace;
+        font-size: 20px;
+        font-family: 'Handlee', cursive;
+
+        }
+        
+        
+.job-title {
+            font-weight: bold;
+            padding: 0;
+            margin: 0;
+            }
+            
+.job-place  {
+             font-style: italic;
+             padding: 0;
+             margin: 0;
+             }
+             
+.job-dates { 
+            padding: 0;
+            margin: 0;
+            }
+            
+img        { 
+           border-radius: 15px 15px 0 0;
+            box-shadow: 3px 3px 3px 5px #E7E1ED;
+        }
